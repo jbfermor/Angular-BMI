@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "Angular-BMI"
+  "defaultProject": "Angular-BMI",
+  "cli": {
+    "analytics": "7e970c4e-828f-4ee1-a624-3fa364fb0f24"
+  }
 }
